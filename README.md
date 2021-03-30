@@ -1,2 +1,2 @@
-# mm_merchant
+# app_merchant
 这是超级美眉《商家类》应用
